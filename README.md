@@ -76,6 +76,25 @@ I am never content to just sit back and let life happen, I want to participate a
 
 <br/>
 
+
+## 🏦 Achievements & Certificates
+
+- ### Udemy:-
+  - GraphQL with React: The Complete Developers Guide
+    - [https://udemy-certificate.s3.amazonaws.com/pdf/UC-6319115c-74ee-425d-83f8-4240f84aa72a.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-6319115c-74ee-425d-83f8-4240f84aa72a.pdf)
+  - Nuxt.js - Vue.js on Steroids
+    - [https://udemy-certificate.s3.amazonaws.com/pdf/UC-d76e536e-5a78-4711-93ae-318d2350c7b4.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-d76e536e-5a78-4711-93ae-318d2350c7b4.pdf)
+  - Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)
+    - [https://udemy-certificate.s3.amazonaws.com/pdf/UC-56501580-5b4f-4463-b348-99dbe4e58d5f.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-56501580-5b4f-4463-b348-99dbe4e58d5f.pdf)
+  - JavaScript: The Advanced Concepts
+    - [https://udemy-certificate.s3.amazonaws.com/pdf/UC-655bfc66-9c58-4219-b75c-2fe46496f89b.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-655bfc66-9c58-4219-b75c-2fe46496f89b.pdf)
+  - Angular - The Complete Guide (2020 Edition)
+    - [https://udemy-certificate.s3.amazonaws.com/pdf/UC-12457de8-124d-47ed-8321-b0b0f781318e.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-12457de8-124d-47ed-8321-b0b0f781318e.pdf)
+  - React - The Complete Guide (incl Hooks, React Router, Redux)
+    - [https://udemy-certificate.s3.amazonaws.com/pdf/UC-PWBXY7BV.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-PWBXY7BV.pdf)
+
+<br/>
+
 ## 📋 Streak
 
   <a style="display: block; margin-top: 1rem" href="https://github.com/sreenathkspanikker/github-readme-streak-stats">
@@ -111,27 +130,6 @@ I am never content to just sit back and let life happen, I want to participate a
 
 <br/>
 <br/>
-
-
-## 🏦 Achievements & Certificates
-
-- ## Udemy:-
-  - GraphQL with React: The Complete Developers Guide
-    - [https://udemy-certificate.s3.amazonaws.com/pdf/UC-6319115c-74ee-425d-83f8-4240f84aa72a.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-6319115c-74ee-425d-83f8-4240f84aa72a.pdf)
-  - Nuxt.js - Vue.js on Steroids
-    - [https://udemy-certificate.s3.amazonaws.com/pdf/UC-d76e536e-5a78-4711-93ae-318d2350c7b4.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-d76e536e-5a78-4711-93ae-318d2350c7b4.pdf)
-  - Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)
-    - [https://udemy-certificate.s3.amazonaws.com/pdf/UC-56501580-5b4f-4463-b348-99dbe4e58d5f.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-56501580-5b4f-4463-b348-99dbe4e58d5f.pdf)
-  - JavaScript: The Advanced Concepts
-    - [https://udemy-certificate.s3.amazonaws.com/pdf/UC-655bfc66-9c58-4219-b75c-2fe46496f89b.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-655bfc66-9c58-4219-b75c-2fe46496f89b.pdf)
-  - Angular - The Complete Guide (2020 Edition)
-    - [https://udemy-certificate.s3.amazonaws.com/pdf/UC-12457de8-124d-47ed-8321-b0b0f781318e.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-12457de8-124d-47ed-8321-b0b0f781318e.pdf)
-  - React - The Complete Guide (incl Hooks, React Router, Redux)
-    - [https://udemy-certificate.s3.amazonaws.com/pdf/UC-PWBXY7BV.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-PWBXY7BV.pdf)
-
-<br/>
-<br/>
-
 
 ## 🏦 Connect me
 
