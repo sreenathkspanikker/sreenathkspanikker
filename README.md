@@ -1,7 +1,3 @@
-<!-- <a href="#">
-  <img width="100%" height="auto" src="https://media-exp1.licdn.com/dms/image/C4D16AQGG6UxPnPnKAg/profile-displaybackgroundimage-shrink_350_1400/0/1591182623820?e=1654128000&v=beta&t=PcXnbrC6pGrgKcY2vbsi4B0Bs7jrJeL1DPysFvEPYoE"/>
-</a> -->
-
 # **Sreenath KS**
 
 ### Senior web application analyst [ Front-End ]
@@ -26,7 +22,7 @@
 
 ## 👑 Satck
 
-<table width="100" style="margin-top: 0.7rem">
+<table style="width: 100%">
   <tbody>
   <!-- line 1 -->
     <tr>
@@ -118,7 +114,6 @@
 <br/>
 
 ## 🏦 Connect me
-  <br/>
 
   [📧 sreenathmpt@gmail.com](mailto:sreenathmpt@gmail.com)
   <br/>
@@ -127,14 +122,14 @@
   [
     <img src="https://img.icons8.com/fluent/20/000000/linkedin.png" style="margin-right: 0.5rem" /> 
     LinkedIn
-  ](/https://www.linkedin.com/in/sreenathks/)
+  ](https://www.linkedin.com/in/sreenathks/)
   <br/>
   [
     <img src="https://img.icons8.com/fluent/20/000000/twitter.png" style="margin-right: 0.5rem" />
     Twitter
-  ](/https://twitter.com/sreenathks_ks)
+  ](https://twitter.com/sreenathks_ks)
   <br/>
   [
     <img src="https://img.icons8.com/fluent/20/000000/instagram-new.png" style="margin-right: 0.5rem" />
     Twitter
-  ](/https://www.instagram.com/sreenath_ks_panikker/)
+  ](https://www.instagram.com/sreenath_ks_panikker/)
