@@ -22,58 +22,20 @@
 
 ## 👑 Satck
 
-<table style="width: 100%" >
-  <tbody>
-  <!-- line 1 -->
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/color/40/000000/react-native.png" style="margin-right: 0.5rem"/>
-        <br />React
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/40/000000/javascript.png" style="margin-right: 0.5rem"/>
-        <br />JavaScript
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/40/000000/angularjs.png" style="margin-right: 0.5rem"/>
-        <br />Angular
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/40/000000/vue-js.png" style="margin-right: 0.5rem"/>
-        <br />Vue
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/40/000000/gatsbyjs.png" style="margin-right: 0.5rem"/>
-        <br />Gatsby
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png" style="margin-right: 0.5rem"/><br />Nuxt
-      </td>
-      <td align="center">
-          <img src="https://img.icons8.com/color/45/000000/html-5--v1.png" style="margin-right: 0.5rem"/>
-          <br />Html
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/45/000000/css3.png" style="margin-right: 0.5rem"/><br />Css
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/40/000000/sass-avatar.png" style="margin-right: 0.5rem"/>
-        <br />Sass
-      </td>
-      <td align="center">
-          <img src="https://img.icons8.com/color/40/000000/graphql.png" style="margin-right: 0.5rem"/>
-          <br />GraphQl
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/45/000000/api-settings.png" style="margin-right: 0.5rem"/>
-        <br />REST API
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/45/000000/git.png" style="margin-right: 0.5rem"/><br />Git
-      </td>
-    </tr>
-  </tbpdy>
-</table>
+<p valign="center">
+      <img src="https://img.icons8.com/color/45/000000/react-native.png"/>
+      <img src="https://img.icons8.com/color/45/000000/javascript.png"/>
+      <img src="https://img.icons8.com/color/45/000000/angularjs.png"/>
+      <img src="https://img.icons8.com/color/45/000000/vue-js.png"/>
+      <img src="https://img.icons8.com/color/45/000000/gatsbyjs.png"/>
+      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png"/>
+      <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
+      <img src="https://img.icons8.com/color/50/000000/css3.png"/>
+      <img src="https://img.icons8.com/color/45/000000/sass-avatar.png"/>
+      <img src="https://img.icons8.com/color/45/000000/graphql.png"/>
+      <img src="https://img.icons8.com/color/50/000000/api-settings.png"/>
+      <img src="https://img.icons8.com/color/50/000000/git.png"/>
+</p>
 
 <br/>
 
