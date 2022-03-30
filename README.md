@@ -16,8 +16,6 @@ I am never content to just sit back and let life happen, I want to participate a
 
 ---
 
-<br />
-
 ## 👔 About Me
 - I'm a passionated developer focused only frontend
 - 7+ years of expirience in frontend development
