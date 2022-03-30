@@ -1,7 +1,6 @@
 # **Sreenath KS**
 
-Senior web application analyst [ Front-End ]
-Accenture, Riga, Latvia.
+#### Senior web application analyst [ Front-End ], Accenture, Riga, Latvia.
 ---
 <br />
 
