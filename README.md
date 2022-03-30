@@ -19,16 +19,15 @@ I am never content to just sit back and let life happen, I want to participate a
 <br />
 
 ## 👔 About Me
-- I'm a passionated developer focused only frontend
-- 7+ years of expirience in frontend development
+- I'm a passionated developer-focused only frontend
+- Developed 100+ websites & 50+ web applications
+- 7+ years of experience in frontend development
 - Currently working on Accenture Riga, Latvia
-- Developed 100+ websires & 50+ web applications
 - Open Source creator & contributor
-- Worked with multi type client base
-- Intrested to start new innovations
-- Teach technologies for beginers 
-- Manage frontent architecture 
-- Welcoming collabrators
+- Teach technologies to beginners 
+- Interested to start innovations
+- Manage frontend architecture 
+- Welcoming collaborators
 - Welcoming new ideas
 
 <br/>
