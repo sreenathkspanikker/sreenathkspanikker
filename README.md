@@ -79,12 +79,12 @@ I am never content to just sit back and let life happen, I want to participate a
 
 ## 🏦 Achievements & Certificates
 
+<img style="width: 40px" alt="udemy" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-udemycom-is-an-online-learning-and-teaching-platform-logo-color-tal-revivo.png" />
+
 <br/>
 
-- <img style="width: 20px" alt="udemy" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-udemycom-is-an-online-learning-and-teaching-platform-logo-color-tal-revivo.png" ></img>
-  -  GraphQL with React: The Complete Developers Guide
-     -  [https://udemy-certificate.s3.amazonaws.com/pdf/UC-6319115c-74ee-425d-83f8-4240f84aa72a.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-6319115c-74ee-425d-83f8-4240f84aa72a.pdf)
-
+  - GraphQL with React: The Complete Developers Guide
+    - [https://udemy-certificate.s3.amazonaws.com/pdf/UC-6319115c-74ee-425d-83f8-4240f84aa72a.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-6319115c-74ee-425d-83f8-4240f84aa72a.pdf)
   - Nuxt.js - Vue.js on Steroids
     - [https://udemy-certificate.s3.amazonaws.com/pdf/UC-d76e536e-5a78-4711-93ae-318d2350c7b4.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-d76e536e-5a78-4711-93ae-318d2350c7b4.pdf)
   - Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)
