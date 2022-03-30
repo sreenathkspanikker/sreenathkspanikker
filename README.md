@@ -1,14 +1,14 @@
-<a href="#"><img width="100%" height="auto" src="https://media-exp1.licdn.com/dms/image/C4D16AQGG6UxPnPnKAg/profile-displaybackgroundimage-shrink_350_1400/0/1591182623820?e=1654128000&v=beta&t=PcXnbrC6pGrgKcY2vbsi4B0Bs7jrJeL1DPysFvEPYoE"/></a>
+<a href="#">
+  <img width="100%" height="auto" src="https://media-exp1.licdn.com/dms/image/C4D16AQGG6UxPnPnKAg/profile-displaybackgroundimage-shrink_350_1400/0/1591182623820?e=1654128000&v=beta&t=PcXnbrC6pGrgKcY2vbsi4B0Bs7jrJeL1DPysFvEPYoE"/>
+</a>
 
-<h1 style="border-left: 5px #375cf0 solid; padding-left: 1rem">
-  Sreenath KS
-  <span style="font-size: 16px; display: block; margin-top: 0.3rem">
-    Senior web application analyst [ Front-End ]
-  </span>
-  <span style="font-size: 16px; display: block">
-    <a href="https://www.accenture.com/lv-en" target="_blank"  style="color: inherit">Accenture, Riga, Latvia.</a>
-  </span>
-</h1>
+## **Sreenath KS**
+
+#### Senior web application analyst [ Front-End ]
+#### Accenture, Riga, Latvia.
+---
+
+<br />
 
 ## 👔 About Me
 
@@ -28,7 +28,7 @@
 
 ## 👑 Satck
 
-<table style="width: 100%; margin-top: 0.7rem">
+<table width="100%" style="margin-top: 0.7rem">
   <tbody>
   <!-- line 1 -->
     <tr>
@@ -112,20 +112,20 @@
 ## 🏦 Connect me
 
   <a style="display: block; color: inherit; margin-top: 1rem" href="mailto:it-support@kth.se">📧 sreenathmpt@gmail.com</a>
-
+  <br/>
   <a style="color: inherit">☎️ +371 2788 2196, +91 9947 419 9498</a>
-
-  <a href="https://www.linkedin.com/in/sreenathks/" style="color: inherit; display: flex; align-items: center; margin-bottom: 0.5rem">
+  <br/>
+  <a target="_blank" href="https://www.linkedin.com/in/sreenathks/" style="color: inherit; display: flex; align-items: center; margin-bottom: 0.5rem">
     <img src="https://img.icons8.com/fluent/20/000000/linkedin.png" style="margin-right: 0.5rem" />
     LinkedIn
   </a>
-
-  <a href="https://twitter.com/sreenathks_ks" style="color: inherit; display: flex; align-items: center; margin-bottom: 0.5rem">
+  <br/>
+  <a target="_blank" href="https://twitter.com/sreenathks_ks" style="color: inherit; display: flex; align-items: center; margin-bottom: 0.5rem">
     <img src="https://img.icons8.com/fluent/20/000000/twitter.png" style="margin-right: 0.5rem" />
     Twitter
   </a>
-
-  <a href="https://www.instagram.com/sreenath_ks_panikker/" style="color: inherit; display: flex; align-items: center">
+  <br/>
+  <a target="_blank" href="https://www.instagram.com/sreenath_ks_panikker/" style="color: inherit; display: flex; align-items: center">
     <img src="https://img.icons8.com/fluent/20/000000/instagram-new.png" style="margin-right: 0.5rem" />
     Instagram
   </a>
