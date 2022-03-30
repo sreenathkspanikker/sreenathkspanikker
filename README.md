@@ -4,8 +4,8 @@
 
 # **Sreenath KS**
 
-## Senior web application analyst [ Front-End ]
-### Accenture, Riga, Latvia.
+### Senior web application analyst [ Front-End ]
+#### Accenture, Riga, Latvia.
 ---
 <br />
 
@@ -30,51 +30,51 @@
   <tbody>
   <!-- line 1 -->
     <tr>
-      <td>
+      <td width="100%">
           <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/react-native.png" style="margin-right: 0.5rem"/>React</span>
-      </td>
-      <td>
+      </td width="100%">
+      <td width="100%">
         <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/22/000000/javascript.png" style="margin-right: 0.5rem"/>JavaScript</span>
-      </td>
-      <td>
+      </td width="100%">
+      <td width="100%">
         <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/angularjs.png" style="margin-right: 0.5rem"/>Angular</span>
-      </td>
+      </td width="100%">
     </tr>
     <!-- line 2 -->
     <tr>
-      <td>
+      <td width="100%">
         <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/vue-js.png" style="margin-right: 0.5rem"/>Vue</span>
-      </td>
-      <td>
+      </td width="100%">
+      <td width="100%">
         <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/gatsbyjs.png" style="margin-right: 0.5rem"/>Gatsby</span>
-      </td>
-      <td>
+      </td width="100%">
+      <td width="100%">
         <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/20/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png" style="margin-right: 0.5rem"/>Nuxt</span>
-      </td>
+      </td width="100%">
     </tr>
   <!-- line 3 -->
     <tr>
-      <td>
+      <td width="100%">
           <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/html-5--v1.png" style="margin-right: 0.5rem"/>Html</span>
-      </td>
-      <td>
+      </td width="100%">
+      <td width="100%">
         <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/22/000000/css3.png" style="margin-right: 0.5rem"/>Css</span>
-      </td>
-      <td>
+      </td width="100%">
+      <td width="100%">
         <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/sass-avatar.png" style="margin-right: 0.5rem"/>Sass</span>
-      </td>
+      </td width="100%">
     </tr>
   <!-- line 4 -->
     <tr>
-      <td>
+      <td width="100%">
           <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/graphql.png" style="margin-right: 0.5rem"/>GraphQl</span>
-      </td>
-      <td>
+      </td width="100%">
+      <td width="100%">
         <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/22/000000/api-settings.png" style="margin-right: 0.5rem"/>REST API</span>
-      </td>
-      <td>
+      </td width="100%">
+      <td width="100%">
         <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/git.png" style="margin-right: 0.5rem"/>Git</span>
-      </td>
+      </td width="100%">
     </tr>
   </tbpdy>
 </table>
@@ -92,16 +92,16 @@
 <table>
   <tbody>
     <tr>
-      <td>
+      <td width="100%">
         <a href="https://github.com/sreenathkspanikker/github-readme-stats">
           <img  style="width:100%" alt="Sreenath's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sreenathkspanikker&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
         </a>
-      </td>
-      <td>
+      </td width="100%">
+      <td width="100%">
         <a href="https://github.com/sreenathkspanikker/github-readme-stats">
           <img  style="width:100%" alt="Sreenath's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreenathkspanikker&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
         </a>
-      </td>
+      </td width="100%">
     </tr>
   </tbody>
 </table>
@@ -110,32 +110,31 @@
 <br/>
 <br/>
 
-### 📊 Contribution graph
-------
+## 📊 Contribution graph
 
 <a style="display: block; margin-top: 1rem"  href="https://github.com/sreenathkspanikker/github-readme-activity-graph"><img  style="width: 100%" alt="Sreenath's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sreenathkspanikker&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
 
-### 🏦 Connect me
-------
+## 🏦 Connect me
+  <br/>
 
-  <a style="display: block; color: inherit; margin-top: 1rem" href="mailto:it-support@kth.se">📧 sreenathmpt@gmail.com</a>
+  [📧 sreenathmpt@gmail.com](mailto:sreenathmpt@gmail.com)
   <br/>
-  <a style="color: inherit">☎️ +371 2788 2196, +91 9947 419 9498</a>
+  [ ☎️ +371 2788 2196, +91 9947 419 9498 ]()
   <br/>
-  <a target="_blank" href="https://www.linkedin.com/in/sreenathks/" style="color: inherit; display: flex; align-items: center; margin-bottom: 0.5rem">
-    <img src="https://img.icons8.com/fluent/20/000000/linkedin.png" style="margin-right: 0.5rem" />
+  [
+    <img src="https://img.icons8.com/fluent/20/000000/linkedin.png" style="margin-right: 0.5rem" /> 
     LinkedIn
-  </a>
+  ](https://www.linkedin.com/in/sreenathks/)
   <br/>
-  <a target="_blank" href="https://twitter.com/sreenathks_ks" style="color: inherit; display: flex; align-items: center; margin-bottom: 0.5rem">
+  [
     <img src="https://img.icons8.com/fluent/20/000000/twitter.png" style="margin-right: 0.5rem" />
     Twitter
-  </a>
+  ](https://twitter.com/sreenathks_ks)
   <br/>
-  <a target="_blank" href="https://www.instagram.com/sreenath_ks_panikker/" style="color: inherit; display: flex; align-items: center">
+  [
     <img src="https://img.icons8.com/fluent/20/000000/instagram-new.png" style="margin-right: 0.5rem" />
-    Instagram
-  </a>
+    Twitter
+  ](https://www.instagram.com/sreenath_ks_panikker/)
