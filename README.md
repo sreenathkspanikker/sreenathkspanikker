@@ -1,4 +1,4 @@
-# **Sreenath KS**
+# **Sreenath K S** (  JavaScript Enthusiast )
 
 #### Senior web application analyst [ Front-End ], Accenture, Riga, Latvia.
 ---
