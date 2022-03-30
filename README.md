@@ -1,8 +1,8 @@
-<a href="#">
+<!-- <a href="#">
   <img width="100%" height="auto" src="https://media-exp1.licdn.com/dms/image/C4D16AQGG6UxPnPnKAg/profile-displaybackgroundimage-shrink_350_1400/0/1591182623820?e=1654128000&v=beta&t=PcXnbrC6pGrgKcY2vbsi4B0Bs7jrJeL1DPysFvEPYoE"/>
-</a>
+</a> -->
 
-## **Sreenath KS**
+### **Sreenath KS**
 
 #### Senior web application analyst [ Front-End ]
 #### Accenture, Riga, Latvia.
@@ -10,8 +10,8 @@
 
 <br />
 
-## 👔 About Me
-
+### 👔 About Me
+------
 - I'm a passionated developer focused only frontend
 - 7+ years of expirience in frontend development
 - Currently working on Accenture Riga, Latvia
@@ -26,7 +26,8 @@
 
 <br/>
 
-## 👑 Satck
+### 👑 Satck
+------
 
 <table width="100%" style="margin-top: 0.7rem">
   <tbody>
@@ -83,12 +84,15 @@
 
 <br/>
 
-## 📋 Streak
+### 📋 Streak
+------
+
   <a style="display: block; margin-top: 1rem" href="https://github.com/sreenathkspanikker/github-readme-streak-stats">
       <img style="width: 100%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sreenath's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sreenathkspanikker&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </a>
 
-## 📃 My Github Stats
+### 📃 My Github Stats
+---
 
   <a style="display: block; margin-top: 1rem" href="https://github.com/sreenathkspanikker/github-readme-stats">
     <img  style="width: 100%" alt="Sreenath's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sreenathkspanikker&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
@@ -102,14 +106,16 @@
 <br/>
 <br/>
 
-## 📊 Contribution graph
+### 📊 Contribution graph
+------
 
 <a style="display: block; margin-top: 1rem"  href="https://github.com/sreenathkspanikker/github-readme-activity-graph"><img  style="width: 100%" alt="Sreenath's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sreenathkspanikker&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
 
-## 🏦 Connect me
+### 🏦 Connect me
+------
 
   <a style="display: block; color: inherit; margin-top: 1rem" href="mailto:it-support@kth.se">📧 sreenathmpt@gmail.com</a>
   <br/>
