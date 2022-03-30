@@ -81,8 +81,6 @@ I am never content to just sit back and let life happen, I want to participate a
 
 <div>
   <img style="width: 30px" alt="udemy" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-udemycom-is-an-online-learning-and-teaching-platform-logo-color-tal-revivo.png" />
-
-  ### Udemy
 </div>
 
 <br/>
