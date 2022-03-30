@@ -79,7 +79,10 @@ I am never content to just sit back and let life happen, I want to participate a
 
 ## 🏦 Achievements & Certificates
 
-- ### Udemy:-
+<img style="width: 200px" alt="udemy" src="https://community.udemy.com/t5/image/serverpage/image-id/5269iACE5F3FBCEC35261?v=v2" />
+
+<br/>
+
   - GraphQL with React: The Complete Developers Guide
     - [https://udemy-certificate.s3.amazonaws.com/pdf/UC-6319115c-74ee-425d-83f8-4240f84aa72a.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-6319115c-74ee-425d-83f8-4240f84aa72a.pdf)
   - Nuxt.js - Vue.js on Steroids
