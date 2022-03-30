@@ -79,7 +79,11 @@ I am never content to just sit back and let life happen, I want to participate a
 
 ## 🏦 Achievements & Certificates
 
-<img style="width: 200px" alt="udemy" src="https://community.udemy.com/t5/image/serverpage/image-id/5269iACE5F3FBCEC35261?v=v2" />
+<div>
+  <img style="width: 30px" alt="udemy" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-udemycom-is-an-online-learning-and-teaching-platform-logo-color-tal-revivo.png" />
+
+  ### Udemy
+</div>
 
 <br/>
 
