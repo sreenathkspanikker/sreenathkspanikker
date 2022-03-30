@@ -22,7 +22,47 @@
 
 ## 👑 Satck
 
-<p valign="center">
+- React
+  - React-Native
+  - NextJs
+  - Gatsby
+- Angular
+  - Ionic
+- Vue
+  - Nuxt
+- Javasctipt
+  - Es6
+  - JQuery
+  - TypeScript
+- Html
+  - Html5
+  - Xhtml
+- Css
+  - Scss
+  - Css3
+  - less
+  - tailwind
+  - Keyframe Animations
+- API
+  - Restfull API
+  - Gatsby
+  - WebSocket
+  - Socket.IO
+  - Postman
+  - Swagger
+- UI development kit
+  - Bootstrap
+  - Antd
+  - React Bootstrap
+- Git
+  - GitHub
+  - SourceTree
+  - Bitbucket
+- Node
+- MySql
+- BrightScript
+
+<!-- <p valign="center">
       <img src="https://img.icons8.com/color/45/000000/react-native.png"/>
       <img src="https://img.icons8.com/color/45/000000/javascript.png"/>
       <img src="https://img.icons8.com/color/45/000000/angularjs.png"/>
@@ -35,7 +75,7 @@
       <img src="https://img.icons8.com/color/45/000000/graphql.png"/>
       <img src="https://img.icons8.com/color/50/000000/api-settings.png"/>
       <img src="https://img.icons8.com/color/50/000000/git.png"/>
-</p>
+</p> -->
 
 <br/>
 
