@@ -38,9 +38,6 @@
         <img src="https://img.icons8.com/color/40/000000/angularjs.png" style="margin-right: 0.5rem"/>
         <br />Angular
       </td>
-    </tr>
-    <!-- line 2 -->
-    <tr>
       <td align="center">
         <img src="https://img.icons8.com/color/40/000000/vue-js.png" style="margin-right: 0.5rem"/>
         <br />Vue
@@ -52,9 +49,6 @@
       <td align="center">
         <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png" style="margin-right: 0.5rem"/><br />Nuxt
       </td>
-    </tr>
-  <!-- line 3 -->
-    <tr>
       <td align="center">
           <img src="https://img.icons8.com/color/45/000000/html-5--v1.png" style="margin-right: 0.5rem"/>
           <br />Html
@@ -66,9 +60,6 @@
         <img src="https://img.icons8.com/color/40/000000/sass-avatar.png" style="margin-right: 0.5rem"/>
         <br />Sass
       </td>
-    </tr>
-  <!-- line 4 -->
-    <tr>
       <td align="center">
           <img src="https://img.icons8.com/color/40/000000/graphql.png" style="margin-right: 0.5rem"/>
           <br />GraphQl
