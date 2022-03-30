@@ -79,19 +79,17 @@ I am never content to just sit back and let life happen, I want to participate a
 
 ## 🏦 Achievements & Certificates
 
-<img style="width: 40px" alt="udemy" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-udemycom-is-an-online-learning-and-teaching-platform-logo-color-tal-revivo.png" />
-
-  - GraphQL with React: The Complete Developers Guide
+  - GraphQL with React: The Complete Developers Guide - **Udemy**
     - [https://udemy-certificate.s3.amazonaws.com/pdf/UC-6319115c-74ee-425d-83f8-4240f84aa72a.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-6319115c-74ee-425d-83f8-4240f84aa72a.pdf)
-  - Nuxt.js - Vue.js on Steroids
+  - Nuxt.js - Vue.js on Steroids - **Udemy**
     - [https://udemy-certificate.s3.amazonaws.com/pdf/UC-d76e536e-5a78-4711-93ae-318d2350c7b4.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-d76e536e-5a78-4711-93ae-318d2350c7b4.pdf)
-  - Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)
+  - Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex) - **Udemy**
     - [https://udemy-certificate.s3.amazonaws.com/pdf/UC-56501580-5b4f-4463-b348-99dbe4e58d5f.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-56501580-5b4f-4463-b348-99dbe4e58d5f.pdf)
-  - JavaScript: The Advanced Concepts
+  - JavaScript: The Advanced Concepts - **Udemy**
     - [https://udemy-certificate.s3.amazonaws.com/pdf/UC-655bfc66-9c58-4219-b75c-2fe46496f89b.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-655bfc66-9c58-4219-b75c-2fe46496f89b.pdf)
-  - Angular - The Complete Guide (2020 Edition)
+  - Angular - The Complete Guide (2020 Edition) - **Udemy**
     - [https://udemy-certificate.s3.amazonaws.com/pdf/UC-12457de8-124d-47ed-8321-b0b0f781318e.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-12457de8-124d-47ed-8321-b0b0f781318e.pdf)
-  - React - The Complete Guide (incl Hooks, React Router, Redux)
+  - React - The Complete Guide (incl Hooks, React Router, Redux) - **Udemy**
     - [https://udemy-certificate.s3.amazonaws.com/pdf/UC-PWBXY7BV.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-PWBXY7BV.pdf)
 
 <br/>
