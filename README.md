@@ -22,54 +22,63 @@
 
 ## 👑 Satck
 
-<table style="width: 100%">
+<table style="width: 100%" >
   <tbody>
   <!-- line 1 -->
     <tr>
-      <td>
-          <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/react-native.png" style="margin-right: 0.5rem"/>React</span>
+      <td align="center">
+        <img src="https://img.icons8.com/color/40/000000/react-native.png" style="margin-right: 0.5rem"/>
+        <br />React
       </td>
-      <td>
-        <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/22/000000/javascript.png" style="margin-right: 0.5rem"/>JavaScript</span>
+      <td align="center">
+        <img src="https://img.icons8.com/color/40/000000/javascript.png" style="margin-right: 0.5rem"/>
+        <br />JavaScript
       </td>
-      <td>
-        <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/angularjs.png" style="margin-right: 0.5rem"/>Angular</span>
+      <td align="center">
+        <img src="https://img.icons8.com/color/40/000000/angularjs.png" style="margin-right: 0.5rem"/>
+        <br />Angular
       </td>
     </tr>
     <!-- line 2 -->
     <tr>
-      <td>
-        <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/vue-js.png" style="margin-right: 0.5rem"/>Vue</span>
+      <td align="center">
+        <img src="https://img.icons8.com/color/40/000000/vue-js.png" style="margin-right: 0.5rem"/>
+        <br />Vue
       </td>
-      <td>
-        <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/gatsbyjs.png" style="margin-right: 0.5rem"/>Gatsby</span>
+      <td align="center">
+        <img src="https://img.icons8.com/color/40/000000/gatsbyjs.png" style="margin-right: 0.5rem"/>
+        <br />Gatsby
       </td>
-      <td>
-        <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/20/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png" style="margin-right: 0.5rem"/>Nuxt</span>
+      <td align="center">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png" style="margin-right: 0.5rem"/><br />Nuxt
       </td>
     </tr>
   <!-- line 3 -->
     <tr>
-      <td>
-          <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/html-5--v1.png" style="margin-right: 0.5rem"/>Html</span>
+      <td align="center">
+          <img src="https://img.icons8.com/color/45/000000/html-5--v1.png" style="margin-right: 0.5rem"/>
+          <br />Html
       </td>
-      <td>
-        <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/22/000000/css3.png" style="margin-right: 0.5rem"/>Css</span>
+      <td align="center">
+        <img src="https://img.icons8.com/color/45/000000/css3.png" style="margin-right: 0.5rem"/><br />Css
       </td>
-      <td>
-        <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/sass-avatar.png" style="margin-right: 0.5rem"/>Sass</span>
+      <td align="center">
+        <img src="https://img.icons8.com/color/40/000000/sass-avatar.png" style="margin-right: 0.5rem"/>
+        <br />Sass
       </td>
     </tr>
   <!-- line 4 -->
     <tr>
-      <td>
-          <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/graphql.png" style="margin-right: 0.5rem"/>GraphQl</span>
+      <td align="center">
+          <img src="https://img.icons8.com/color/40/000000/graphql.png" style="margin-right: 0.5rem"/>
+          <br />GraphQl
       </td>
-      <td>
-        <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/22/000000/api-settings.png" style="margin-right: 0.5rem"/>REST API</span>
+      <td align="center">
+        <img src="https://img.icons8.com/color/45/000000/api-settings.png" style="margin-right: 0.5rem"/>
+        <br />REST API
       </td>
-      <td>
-        <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/git.png" style="margin-right: 0.5rem"/>Git</span>
+      <td align="center">
+        <img src="https://img.icons8.com/color/45/000000/git.png" style="margin-right: 0.5rem"/><br />Git
       </td>
     </tr>
   </tbpdy>
