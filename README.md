@@ -127,14 +127,14 @@
   [
     <img src="https://img.icons8.com/fluent/20/000000/linkedin.png" style="margin-right: 0.5rem" /> 
     LinkedIn
-  ](https://www.linkedin.com/in/sreenathks/)
+  ](/https://www.linkedin.com/in/sreenathks/)
   <br/>
   [
     <img src="https://img.icons8.com/fluent/20/000000/twitter.png" style="margin-right: 0.5rem" />
     Twitter
-  ](https://twitter.com/sreenathks_ks)
+  ](/https://twitter.com/sreenathks_ks)
   <br/>
   [
     <img src="https://img.icons8.com/fluent/20/000000/instagram-new.png" style="margin-right: 0.5rem" />
     Twitter
-  ](https://www.instagram.com/sreenath_ks_panikker/)
+  ](/https://www.instagram.com/sreenath_ks_panikker/)
