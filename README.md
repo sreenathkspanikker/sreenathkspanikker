@@ -81,8 +81,6 @@ I am never content to just sit back and let life happen, I want to participate a
 
 <img style="width: 40px" alt="udemy" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-udemycom-is-an-online-learning-and-teaching-platform-logo-color-tal-revivo.png" />
 
-<br/>
-
   - GraphQL with React: The Complete Developers Guide
     - [https://udemy-certificate.s3.amazonaws.com/pdf/UC-6319115c-74ee-425d-83f8-4240f84aa72a.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-6319115c-74ee-425d-83f8-4240f84aa72a.pdf)
   - Nuxt.js - Vue.js on Steroids
