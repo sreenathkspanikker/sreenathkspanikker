@@ -1,7 +1,7 @@
 # **Sreenath KS**
 
-### Senior web application analyst [ Front-End ]
-#### Accenture, Riga, Latvia.
+#### Senior web application analyst [ Front-End ]
+##### Accenture, Riga, Latvia.
 ---
 <br />
 
@@ -40,8 +40,8 @@
 - Css
   - Scss
   - Css3
-  - less
-  - tailwind
+  - Less
+  - Tailwind
   - Keyframe Animations
 - API
   - Restfull API
@@ -61,21 +61,6 @@
 - Node
 - MySql
 - BrightScript
-
-<!-- <p valign="center">
-      <img src="https://img.icons8.com/color/45/000000/react-native.png"/>
-      <img src="https://img.icons8.com/color/45/000000/javascript.png"/>
-      <img src="https://img.icons8.com/color/45/000000/angularjs.png"/>
-      <img src="https://img.icons8.com/color/45/000000/vue-js.png"/>
-      <img src="https://img.icons8.com/color/45/000000/gatsbyjs.png"/>
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png"/>
-      <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
-      <img src="https://img.icons8.com/color/50/000000/css3.png"/>
-      <img src="https://img.icons8.com/color/45/000000/sass-avatar.png"/>
-      <img src="https://img.icons8.com/color/45/000000/graphql.png"/>
-      <img src="https://img.icons8.com/color/50/000000/api-settings.png"/>
-      <img src="https://img.icons8.com/color/50/000000/git.png"/>
-</p> -->
 
 <br/>
 
