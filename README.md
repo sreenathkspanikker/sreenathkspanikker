@@ -26,55 +26,55 @@
 
 ## 👑 Satck
 
-<table width="100%" style="margin-top: 0.7rem">
+<table width="100" style="margin-top: 0.7rem">
   <tbody>
   <!-- line 1 -->
     <tr>
-      <td width="100%">
+      <td>
           <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/react-native.png" style="margin-right: 0.5rem"/>React</span>
-      </td width="100%">
-      <td width="100%">
+      </td>
+      <td>
         <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/22/000000/javascript.png" style="margin-right: 0.5rem"/>JavaScript</span>
-      </td width="100%">
-      <td width="100%">
+      </td>
+      <td>
         <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/angularjs.png" style="margin-right: 0.5rem"/>Angular</span>
-      </td width="100%">
+      </td>
     </tr>
     <!-- line 2 -->
     <tr>
-      <td width="100%">
+      <td>
         <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/vue-js.png" style="margin-right: 0.5rem"/>Vue</span>
-      </td width="100%">
-      <td width="100%">
+      </td>
+      <td>
         <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/gatsbyjs.png" style="margin-right: 0.5rem"/>Gatsby</span>
-      </td width="100%">
-      <td width="100%">
+      </td>
+      <td>
         <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/20/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png" style="margin-right: 0.5rem"/>Nuxt</span>
-      </td width="100%">
+      </td>
     </tr>
   <!-- line 3 -->
     <tr>
-      <td width="100%">
+      <td>
           <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/html-5--v1.png" style="margin-right: 0.5rem"/>Html</span>
-      </td width="100%">
-      <td width="100%">
+      </td>
+      <td>
         <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/22/000000/css3.png" style="margin-right: 0.5rem"/>Css</span>
-      </td width="100%">
-      <td width="100%">
+      </td>
+      <td>
         <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/sass-avatar.png" style="margin-right: 0.5rem"/>Sass</span>
-      </td width="100%">
+      </td>
     </tr>
   <!-- line 4 -->
     <tr>
-      <td width="100%">
+      <td>
           <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/graphql.png" style="margin-right: 0.5rem"/>GraphQl</span>
-      </td width="100%">
-      <td width="100%">
+      </td>
+      <td>
         <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/22/000000/api-settings.png" style="margin-right: 0.5rem"/>REST API</span>
-      </td width="100%">
-      <td width="100%">
+      </td>
+      <td>
         <span style="display: flex; align-items: center; color: inherit; margin-bottom: 0.5rem"><img src="https://img.icons8.com/color/20/000000/git.png" style="margin-right: 0.5rem"/>Git</span>
-      </td width="100%">
+      </td>
     </tr>
   </tbpdy>
 </table>
@@ -92,16 +92,16 @@
 <table>
   <tbody>
     <tr>
-      <td width="100%">
+      <td>
         <a href="https://github.com/sreenathkspanikker/github-readme-stats">
           <img  style="width:100%" alt="Sreenath's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sreenathkspanikker&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
         </a>
-      </td width="100%">
-      <td width="100%">
+      </td>
+      <td>
         <a href="https://github.com/sreenathkspanikker/github-readme-stats">
           <img  style="width:100%" alt="Sreenath's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreenathkspanikker&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
         </a>
-      </td width="100%">
+      </td>
     </tr>
   </tbody>
 </table>
